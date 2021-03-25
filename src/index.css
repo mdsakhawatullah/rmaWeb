@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'Megatron';
+  src: local('Megatroni'), url(./Component/Font/Megatron.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: local('Poppins-Bold'), url(./Component/Font/Poppins-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: local('OpenSans-Bold'), url(./Component/Font/OpenSans-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: local('Montserrat-SemiBold'), url(./Component/Font/Montserrat-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OpenSans-Semibold';
+  src: local('OpenSans-Semibold'), url(./Component/Font/OpenSans-Semibold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: local('Poppins-SemiBold'), url(./Component/Font/Poppins-SemiBold.ttf) format('truetype');
+}

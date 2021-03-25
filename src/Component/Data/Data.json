@@ -1,0 +1,127 @@
+[{
+    "id": 0,
+    "name": "navLogo",
+    "logoImage": "https://i.imgur.com/aMDNOC4.png"
+    
+  }, {
+    "id": 1,
+    "name": "afterNavbar",
+    "navBackgroundImage": "https://i.imgur.com/LoryMVh.jpg"
+    
+  }, {
+    "id": 2,
+    "name": "circleImage",
+    "circleImage": "https://i.imgur.com/ChOC6X8.png"
+    
+  }, {
+    "id": 3,
+    "name": "secondPageBg",
+    "secondPageBg": "https://i.imgur.com/Rue4vz4.png"
+    
+  },  {
+    "id": 4,
+    "name": "big",
+    "bigImage": "https://i.imgur.com/m5cRCaE.png"
+    
+  }, {
+    "id": 5,
+    "name": "md",
+    "mdImage": "https://i.imgur.com/cpcWcct.png"
+  }, {
+    "id": 6,
+    "name": "sm",
+    "smImage": "https://i.imgur.com/6l229dF.png"
+  }, {
+    "id": 7,
+    "name": "btnIcon",
+    "btnIconImage": "https://i.imgur.com/VTyFg5W.png" 
+  }, {
+    "id": 8,
+    "name": "btnIcon2",
+    "btnIcon2Image": "https://i.imgur.com/6wbcBii.png" 
+  }, {
+    "id": 9,
+    "name": "icon2",
+    "icon2Image": "https://i.imgur.com/ZJPox5a.png" 
+  }, {
+    "id": 10,
+    "name": "icon4",
+    "icon4Image": "https://i.imgur.com/SkGf0wS.png"  
+  }, {
+    "id": 11,
+    "name": "icon1",
+    "icon1Image": "https://i.imgur.com/EYJ3KET.png"  
+  }, {
+    "id": 12,
+    "name": "thirdPageBg",
+    "thirdPageBgImage": "https://i.imgur.com/zkdHdRx.png"  
+  }, {
+    "id": 13,
+    "name": "fourthPageRobot",
+    "fourthPageRobotImage": "https://i.imgur.com/0fhazoA.jpg"  
+  }, {
+    "id": 14,
+    "name": "cc",
+    "ccImage": "https://i.imgur.com/XAZr0wg.png"
+  }, {
+    "id": 15,
+    "name": "dd",
+    "ddImage": "https://i.imgur.com/86GsTpx.png"
+}, {
+    "id": 16,
+    "name": "rd",
+    "rdImage": "https://i.imgur.com/9XbYxdn.png"
+}, {
+    "id": 17,
+    "name": "pm",
+    "pmImage": "https://i.imgur.com/YghcKuL.png"
+}, {
+    "id": 18,
+    "name": "latestNewsBg",
+    "latestNewsBgImage": "https://i.imgur.com/PWKfqIY.png"
+}, {
+    "id": 19,
+    "name": "latestNewsBg1",
+    "latestNewsBg1Image": "https://i.imgur.com/22nPljo.png"
+}, {
+    "id": 20,
+    "name": "latestNewsBg2",
+    "latestNewsBg2Image": "https://i.imgur.com/hSniCIv.png"
+}, {
+    "id": 21,
+    "name": "email",
+    "emailImage": "https://i.imgur.com/91AiJFU.png"
+}, {
+    "id": 22,
+    "name": "call",
+    "callImage": "https://i.imgur.com/vYuYQFd.png"
+}, {
+    "id": 23,
+    "name": "location",
+    "locationImage": "https://i.imgur.com/fxHxMPL.png"
+}, {
+    "id": 24,
+    "name": "finalPageBg",
+    "finalPageBgImage": "https://i.imgur.com/3ZNykX3.png"
+}, {
+    "id": 24,
+    "name": "facebookIcon",
+    "facebookIconImage": "https://i.imgur.com/Glpt7Ym.png"
+}, {
+    "id": 25,
+    "name": "gmailIcon",
+    "gmailIconImage": "https://i.imgur.com/fxHxMPL.png"
+}, {
+    "id": 26,
+    "name": "youtubeIcon",
+    "youtubeIconImage": "https://i.imgur.com/PoNjix2.png"
+}, {
+    "id": 27,
+    "name": "linkdinIcon",
+    "locationImage": "https://i.imgur.com/iFcZE4A.png"
+}, {
+    "id": 28,
+    "name": "icon3",
+    "icon3Image": "https://i.imgur.com/QhRH8bZ.png"
+}
+]
