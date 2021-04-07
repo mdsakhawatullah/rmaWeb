@@ -1,5 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import '../Style/Style.css';
+import '../Style/ResponsiveTab.css';
+import '../Style/ResponsiveSemiTab.css';
+import '../Style/ResponsiveNotebook.css';
+import '../Style/ResponsiveMobileSm.css';
+import '../Style/ResponsiveMobile.css';
 import thirdPageData from '../Data/Data.json'
 
 const ThirdPage = () => {

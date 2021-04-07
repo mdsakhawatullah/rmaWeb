@@ -1,5 +1,4 @@
 import React from 'react';
-
 const LastPage = () => {
     return (
         <div className="last_page img-fluid">

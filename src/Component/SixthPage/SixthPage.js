@@ -1,4 +1,10 @@
 import React from 'react';
+import '../Style/Style.css';
+import '../Style/ResponsiveTab.css';
+import '../Style/ResponsiveSemiTab.css';
+import '../Style/ResponsiveNotebook.css';
+import '../Style/ResponsiveMobileSm.css';
+import '../Style/ResponsiveMobile.css';
 import email from '../Images/email.png';
 import call from '../Images/call.png';
 import location from '../Images/location.png';

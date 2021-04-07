@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Style/Style.css';
+
 import cc from '../Images/cc.png';
 import pm from '../Images/pm.png';
 import dd from '../Images/dd.png';
